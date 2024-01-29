@@ -103,4 +103,11 @@ $ sudo ./tools/kernel_flash/l4t_initrd_flash.sh --external-device <storage> -c t
 	--showlogs --no-flash --network usb0 <board_conf> internal
 ```
 # Want for more guide ? 
+
+## TechNexion Camera Driver User Guide
+
+If you want to get more information about TechNexion cameras, you can go to the bellow link.
+
+[Technexion Camera Drivers for Nvidia Jetson](https://github.com/TechNexion-Vision/TEV-Jetson_Camera_driver)
+
 click here !! [Technexion document 360](https://developer.technexion.com/docs/1)
