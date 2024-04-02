@@ -106,8 +106,12 @@ $ sudo ./tools/kernel_flash/l4t_initrd_flash.sh --external-device <storage> -c t
 
 ## TechNexion Camera Driver User Guide
 
-If you want to get more information about TechNexion cameras, you can go to the bellow link.
+If you want to get more information about TechNexion cameras, you can go to the link below:
 
 [Technexion Camera Drivers for Nvidia Jetson](https://github.com/TechNexion-Vision/TEV-Jetson_Camera_driver)
 
-click here !! [Technexion document 360](https://developer.technexion.com/docs/1)
+## TechNexion Nvidia BSP Jetpack User Guide
+
+For those new to Nvidia Jetpack, you can go to the link below:
+
+[Technexion document 360](https://developer.technexion.com/docs/1)
