@@ -9,7 +9,7 @@ This script contains a complete system package that enables your Jeston Jetpack 
 [Orin Nano EVK](https://www.technexion.com/products/embedded-vision/evk/vls3-orin-evk/)
 
 ## Full instruction:
-[Technexion document 360](https://developer.technexion.com/docs/1)
+[Technexion document 360](https://developer.technexion.com/docs/host-environment-setting-1)
 
 ## 1. Prepare ubuntu environment
 Download Ubuntu 20.04/ 22.04 iso file from [ubuntu web site](https://ubuntu.com/download/desktop).
@@ -114,4 +114,4 @@ If you want to get more information about TechNexion cameras, you can go to the 
 
 For those new to Nvidia Jetpack, you can go to the link below:
 
-[Technexion document 360](https://developer.technexion.com/docs/1)
+[Technexion document 360](https://developer.technexion.com/docs/host-environment-setting-1)
