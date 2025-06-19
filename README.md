@@ -4,12 +4,7 @@ This script contains a complete system package that enables your Jeston Jetpack 
 
 ## Product page:
 
-[TEK-ORIN](https://www.technexion.com/products/embedded-computing/aivision/tek6040-orin-nano/)
-
-[Orin Nano EVK](https://www.technexion.com/products/embedded-vision/evk/vls3-orin-evk/)
-
-## Full instruction:
-[Technexion document 360](https://developer.technexion.com/docs/host-environment-setting-1)
+[TEK6040-ORIN-NANO](https://www.technexion.com/products/embedded-computing/aivision/tek6040-orin-nano/)
 
 ## 1. Prepare ubuntu environment
 Download Ubuntu 20.04/ 22.04 iso file from [ubuntu web site](https://ubuntu.com/download/desktop).
@@ -110,8 +105,3 @@ If you want to get more information about TechNexion cameras, you can go to the 
 
 [Technexion Camera Drivers for Nvidia Jetson](https://github.com/TechNexion-Vision/TEV-Jetson_Camera_driver)
 
-## TechNexion Nvidia BSP Jetpack User Guide
-
-For those new to Nvidia Jetpack, you can go to the link below:
-
-[Technexion document 360](https://developer.technexion.com/docs/host-environment-setting-1)
