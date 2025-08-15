@@ -5,6 +5,7 @@ This script contains a complete system package that enables your Jeston Jetpack 
 ## Product page:
 
 [TEK6040-ORIN-NANO](https://www.technexion.com/products/embedded-computing/aivision/tek6040-orin-nano/)
+[TEK6100-ORIN-NX](https://www.technexion.com/products/embedded-computing/aivision/tek6100-orin-nx/)
 
 ## 1. Prepare ubuntu environment
 Download Ubuntu 20.04/ 22.04 iso file from [ubuntu web site](https://ubuntu.com/download/desktop).
